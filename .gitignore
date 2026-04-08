@@ -1,2 +1,16 @@
+# Python-Umgebung
 .venv/
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Konfigurationsdateien
 .env
+
+# Logs und Rohdaten
+logs/
+raw_data/
