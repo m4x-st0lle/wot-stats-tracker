@@ -1,0 +1,5 @@
+# azure_storage_blob==12.28.0
+dotenv==0.9.9
+# polars==1.37.1
+# pyspark==4.1.1
+# requests==2.32.5
